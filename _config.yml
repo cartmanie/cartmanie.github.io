@@ -1,0 +1,13 @@
+# Site settings
+title: chaos studio
+email: chjiangwh at gmail dot com
+description: chaos studio
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: www.chaojiang.org
+twitter_username: 
+github_username:  
+
+# Build settings
+markdown: kramdown
+###markdown: rdiscount
+

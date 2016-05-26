@@ -1,5 +1,5 @@
-# cartmanie.github.io
-My site repository
+my-awesome-site
+===============
 
 从0基础开始搭建自己的blog.
 
