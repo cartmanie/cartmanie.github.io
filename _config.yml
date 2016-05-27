@@ -3,7 +3,8 @@ title: chaos studio
 email: chjiangwh at gmail dot com
 description: chaos studio
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: www.chaojiang.org
+url: https://www.chaojiang.org
+enforce_ssl: www.chaojiang.org
 twitter_username: 
 github_username:  
 
